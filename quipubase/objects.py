@@ -3,9 +3,9 @@
 
 from __future__ import annotations
 
+import json
 import typing as tp
 
-import json
 import typing_extensions as tpe
 from httpx import AsyncClient
 from loguru import logger
